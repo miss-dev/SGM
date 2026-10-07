@@ -1,0 +1,1 @@
+This is a ranking tool built to collect students details, rank their scores in descending order and store in a csv file. The concepts covered in creating this tool include: OOP, classes, function, while and for loops, file handling. Some features could be added to perform operations on the student data collected, thus improving the efficiency of the tool.
